@@ -5,20 +5,32 @@ paginate: true
 backgroundColor: #ffffff
 ---
 
+
+
 # Gestion des conflits  
 ## dans Git & GitHub
 
 Mini-veille – Atelier pratique
 
+<br>
+
+**Présentée par : Salma Akajou**  
+**Encadrée par : M. Fouad Essarraj**
+
 ---
 
-## Objectifs de la veille
+## Introduction
 
-- Comprendre les conflits Git
-- Identifier leurs causes
-- Connaître les types de conflits
-- Appliquer des règles pour les éviter
-- Comprendre le principe de résolution
+Dans un projet collaboratif, plusieurs développeurs travaillent sur les mêmes fichiers.
+
+Cela peut provoquer des conflits lors de la fusion du code.
+
+Cette veille présente :
+- les conflits Git
+- leurs causes
+- les règles pour les éviter
+- le principe de leur résolution
+
 
 ---
 
@@ -114,14 +126,14 @@ Avantages :
 - Revue de code intégrée
 
 ---
+## Atelier pratique
 
-## Conclusion
+Objectif :
+- Simuler un conflit Git réel
+- Identifier les modifications en conflit
+- Résoudre le conflit manuellement
+- Valider la résolution avec un commit
 
-- Les conflits sont inévitables
-- Git protège l’intégrité du projet
-- Une bonne organisation limite les conflits
-- La résolution demande analyse et rigueur
-
-🧠 *Git ne crée pas les conflits, il les révèle.*
+📌 Atelier réalisé en direct.
 
 ---
